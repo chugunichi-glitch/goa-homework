@@ -1,1 +1,5 @@
-"base=int(input("Enter base:"))"" "power=int(input("Enter power:"))"+"result=base**power""print(result)""
+num = int(input("შეიყვანეთ რიცხვი: "))
+
+num = num + num % 2
+print(num)
+print(num+1)

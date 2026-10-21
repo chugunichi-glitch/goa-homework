@@ -19,6 +19,7 @@ perimeter=2*(widht+height)
 print(area)
 print(perimeter)
 
+
 #კონკატინაცია არის ტექსტების შეერთება
 name="levani"
 surname="archvadze"
@@ -31,9 +32,3 @@ height=1.95
 print(name)
 print(age)
 print(height)
-
-
-
-
-
-
