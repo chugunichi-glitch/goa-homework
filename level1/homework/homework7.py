@@ -22,7 +22,7 @@
 # <= ამოწმებს, ნაკლებია თუ ტოლია პირველი რიცხვი მეორეზე.
 
 
-# num1 = int(input("შეიყვანე პირველი რიცხვი: "))
+#  num1= int(input("შეიყვანე პირველი რიცხვი: "))
 # num2 = int(input("შეიყვანე მეორე რიცხვი: "))
 # print(num1 == num2)
 # print(num1 != num2)
@@ -78,13 +78,13 @@
 # result = num1 - 5 * num2
 # print(result)
 
-hours = float(input("Enter hours worked: "))
-rate = float(input("Enter hourly rate: "))
-bonus = float(input("Enter bonus: "))
-salary = hours * rate
-total = salary + bonus
-final_salary = total / 2
-print(final_salary)
+# hours = float(input("Enter hours worked: "))
+# rate = float(input("Enter hourly rate: "))
+# bonus = float(input("Enter bonus: "))
+# salary = hours * rate
+# total = salary + bonus
+# final_salary = total / 2
+# print(final_salary)
 
 # price = float(input("Enter product price: "))
 # quantity = float(input("Enter quantity: "))

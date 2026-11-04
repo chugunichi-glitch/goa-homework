@@ -9,9 +9,6 @@
 # farenheit=(celsius*9/5)+32
 # print(f"ცელსიუსი არის {celsius}ფარენგეიტი არის{farenheit}")
 
-# 
-
-
 
 # fasi=float(input("Enter fasi"))
 # proc=float(input("Enter proc"))
@@ -19,9 +16,11 @@
 # bolofasi=fasi+gadasaxadi
 # print(f" გადასახადი არის{gadasaxadi} ბოლოფასი არის{bolofasi}")
 
+
 # kilometri=float(input("Enter kilometri"))
 # mili=kilometri*0.6
 # print(f" kilometri aris{kilometri} mili aris{ mili}")
+
 
 # GB=int(input("Enter GB"))
 # mbps=int(input("Enter mbps"))
@@ -38,23 +37,14 @@
 # print(f" saboloo sichqare{v} gavlili mandzili{s}")
 
 
-
 # num=15
 # if num<10:
 #     print(f"num is {num}")
 # elif num10:
 #     print(f"")
 
-num=int(input("Enter num"))
-if num>0:
-    print(f"{num} dadebitia")
+# num=int(input("Enter num"))
+# if num>0:
+#     print(f"{num} dadebitia")
 # else:
 #     print(f"{num} uaryofitia")
-
-
-
-
-
-
-
-

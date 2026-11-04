@@ -35,7 +35,8 @@
 # aritmetikuli=(num1+num2+num3)/3
 # print(aritmetikuli)
 
-r=int(input("Enter Radiusi"))
-sigrdze=2*3.14*r
-fartobi=3.14*r**2
-print(f"sigrdze aris{sigrdze}fartobi aris{fartobi}")
+# r=int(input("Enter Radiusi"))
+# sigrdze=2*3.14*r
+# fartobi=3.14*r**2
+# print(f"sigrdze aris{sigrdze}fartobi aris{fartobi}")
+
